@@ -26,7 +26,7 @@ h2,h3{
   font-size: 1.5em;
 }
 body{
-    background-image: url("../bilder/bubblor.jpg");
+    background-image: url(../bilder/bubblor.jpg);
 }
 html{
     scroll-behavior: smooth;
@@ -47,13 +47,19 @@ a{
 }
 .signature{
     font-family: 'Dancing Script', cursive;
-    font font-weight: bold;
+    font-weight: normal;
 }
 blockquote{
     font-family: 'Dancing Script', cursive;
     color: #C5C3C6;
+    font-weight: bold;
 
 }
-background{
-    
+h2:hover{
+    background-color: #6E44FF;
+    color: #32292F;    
+}
+h3:hover{
+    background-color: #6E44FF;
+    color: #32292F;   
 }
