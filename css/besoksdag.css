@@ -1,0 +1,56 @@
+
+main {
+    width: 80%;
+    margin: 0 auto;
+}
+h1 {
+    text-align: center;
+    background-color: #32292F;
+    color: #6E44FF;
+    font-family: 'Allerta Stencil', sans-serif;
+    font-size: 4em;
+    border-style: dotted;
+    border-radius: 4.5em;
+    
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    color: #C5C3C6;
+
+
+}
+h2,h3{
+  color: #6E44FF;
+  background-color: #32292F; 
+  font-family: 'Allerta Stencil', sans-serif;
+  font-size: 1.5em;
+}
+body{
+    background-image: url("../bilder/bubblor.jpg");
+}
+html{
+    scroll-behavior: smooth;
+}
+h1:hover{
+    background-color: #6E44FF;
+    color: #32292F;
+    border-color: #32292F;
+}
+ul{
+    color: #C5C3C6;
+}
+li{
+    font-family: 'Roboto', sans-serif;  
+}
+a{
+    font-family: 'Roboto', sans-serif;
+}
+.signature{
+    font-family: 'Dancing Script', cursive;
+    font font-weight: bold;
+}
+blockquote{
+    font-family: 'Dancing Script', cursive;
+    color: #C5C3C6;
+
+}
