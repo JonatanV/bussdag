@@ -10,7 +10,7 @@ h1 {
     font-family: 'Allerta Stencil', sans-serif;
     font-size: 4em;
     border-style: dotted;
-    border-radius: 4.5em;
+    border-radius: 5em;
     
 }
 p{
@@ -26,7 +26,7 @@ h2,h3{
   font-size: 1.5em;
 }
 body{
-    background-image: url("../bilder/bubblor.jpg")s;
+    background-image: url("../bilder/bubblor.jpg");
 }
 html{
     scroll-behavior: smooth;
@@ -53,4 +53,7 @@ blockquote{
     font-family: 'Dancing Script', cursive;
     color: #C5C3C6;
 
+}
+background{
+    
 }
